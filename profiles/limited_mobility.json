@@ -1,0 +1,19 @@
+{
+  "name": "limited_mobility",
+  "wheelchair_required": false,
+  "allow_ramps": true,
+  "prefer_handrail": true,
+  "min_width_m": 0.9,
+  "weights": {
+    "avoid_bicycles": 0.0,
+    "lit_roads": 0.5,
+    "surface_type": 0.75,
+    "smoothness": 0.75,
+    "short_kerbs": 0.75,
+    "supervised_crossings": 0.5,
+    "road_width": 0.5,
+    "road_incline": 1.0,
+    "avoid_stairs": 0.75,
+    "wheelchair_accessible": 0.25
+  }
+}
