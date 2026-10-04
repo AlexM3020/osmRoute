@@ -1,0 +1,19 @@
+{
+  "name": "low_barrier_walking",
+  "wheelchair_required": false,
+  "allow_ramps": true,
+  "prefer_handrail": false,
+  "min_width_m": 0.8,
+  "weights": {
+    "avoid_bicycles": 0.0,
+    "lit_roads": 0.5,
+    "surface_type": 0.5,
+    "smoothness": 0.5,
+    "short_kerbs": 0.5,
+    "supervised_crossings": 0.25,
+    "road_width": 0.25,
+    "road_incline": 0.5,
+    "avoid_stairs": 0.5,
+    "wheelchair_accessible": 0.0
+  }
+}
